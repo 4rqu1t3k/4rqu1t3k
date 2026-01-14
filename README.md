@@ -1,56 +1,52 @@
 # Hector Samperio
 
 Digital Risk Systems Architect  
-Founder — Aegis Digital MX  
-Creator of Influsafe (DOI: 10.5281/zenodo.18238918)
+Founder — Influsafe®  
+Creator of the Influsafe® System (DOI: 10.5281/zenodo.18238918)  
+Operated by Aegis Digital MX
 
 ---
 
 ## About
 
-I design preventive digital risk engines focused on early detection of identity exposure, reputational attack vectors and latent structural vulnerabilities.
+I design preventive digital risk systems focused on early detection of digital exposure, impersonation, fraud vectors and structural reputation risk.
 
-My work centers on proactive cyber–risk modeling, digital footprint surface analysis and pre-incident exposure detection systems.
+My work centers on proactive cyber-risk modeling, digital footprint surface analysis and exposure correlation systems designed to prevent high-impact digital incidents before materialization.
 
-I develop Influsafe — a scientific-grade digital exposure risk prevention framework registered at CERN / Zenodo.
+I develop Influsafe® — a scientific-grade Digital Exposure & Identity Risk System designed to detect invisible risk structures across identity, reputation and digital attack surface layers.
 
 ---
 
 ## Flagship System
 
-### Influsafe — Digital Exposure Risk Engine
+### Influsafe® — Digital Exposure & Identity Risk System
 
-Scientific Software DOI: **10.5281/zenodo.18238918**
+Influsafe® is a scientific-grade preventive digital risk system that models, correlates and detects hidden digital exposure structures, impersonation vectors, identity risks and reputation vulnerabilities before exploitation.
 
-Preventive exposure detection framework designed to:
-
-- Map active and passive digital footprint surfaces  
-- Detect latent identity leaks and exposure vectors  
-- Analyze reputational and structural attack surfaces  
-- Correlate multi-source digital risk signals  
-- Generate preventive exposure scoring before incidents occur  
+**Scientific Software DOI:** 10.5281/zenodo.18238918
 
 ---
 
-## Research Domains
+## Research Focus
 
-- Digital Identity Risk Modeling  
-- Preventive Cybersecurity  
-- Exposure Surface Mapping  
-- Reputation Risk Engineering  
-- Structural Digital Vulnerability Detection  
-
----
-
-## Public Records
-
-- Zenodo: https://doi.org/10.5281/zenodo.18238918  
-- GitHub: https://github.com/4rqu13k/4rqu13k  
+• Digital Exposure Modeling  
+• Identity Risk Surface Detection  
+• Reputation Attack Surface Analysis  
+• Fraud Vector Correlation  
+• Preventive Cyber-Risk Architecture  
+• Digital Risk System Design  
 
 ---
 
-## Contact
+## Institutional Architecture
 
-Professional inquiries only.  
-Research collaboration and institutional licensing.
+**System IP:** Influsafe®  
+**Operator:** Aegis Digital MX  
+**Author:** Hector Samperio  
+**ORCID:** https://orcid.org/0009-0004-1715-3238
+
+---
+
+© Influsafe® — All system rights reserved.
+
 
