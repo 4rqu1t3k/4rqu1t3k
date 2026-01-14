@@ -41,7 +41,6 @@ Influsafe® is a scientific-grade preventive digital risk system that models, co
 ## Institutional Architecture
 
 **System IP:** Influsafe®  
-**Operator:** Aegis Digital MX  
 **Author:** Hector Samperio  
 **ORCID:** https://orcid.org/0009-0004-1715-3238
 
