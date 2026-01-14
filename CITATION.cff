@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use Influsafe, please cite it as below."
+title: "Influsafe v1.0.0 — Digital Exposure Risk Engine"
+version: 1.0.0
+doi: 10.5281/zenodo.18238918
+date-released: 2026-01-14
+
+authors:
+  - family-names: Samperio
+    given-names: Hector
+    orcid: https://orcid.org/0000-0000-0000-0000
+
+repository-code: https://github.com/4rqu13k/4rqu13k
+url: https://doi.org/10.5281/zenodo.18238918
+
+keywords:
+  - cybersecurity
+  - digital-identity
+  - exposure-risk
+  - preventive-security
+  - risk-engine
+  - digital-footprint
