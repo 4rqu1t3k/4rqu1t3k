@@ -3,7 +3,6 @@
 Digital Risk Systems Architect  
 Founder — Influsafe®  
 Creator of the Influsafe® System (DOI: 10.5281/zenodo.18238918)  
-Operated by Aegis Digital MX
 
 ---
 
@@ -41,7 +40,7 @@ Influsafe® is a scientific-grade preventive digital risk system that models, co
 ## Institutional Architecture
 
 **System IP:** Influsafe®  
-**Author:** Hector Samperio  
+**Author and System Architect:** Hector Samperio  
 **ORCID:** https://orcid.org/0009-0004-1715-3238
 
 ---
